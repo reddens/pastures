@@ -9,14 +9,14 @@
             height: 100%
             }
         .scroll{
-            color: rgb(2,1,103);
+            color: green;
             font-size: 13px;
             text-decoration: none;
         }
         .greet{
             font-size: 35px;
             font-weight: 50;
-            color: rgb(2,1,103);
+            color: green;
         }
         table {
             border-collapse: collapse;
@@ -25,8 +25,8 @@
 </head>
 <body>
     <table width=100%>
-                    <tr><td width=1%><a href="home.php"><img src="res/img/babcock.jpeg" height="20" width="20"></a></td><td>
-                    <p align= "left" style="font-size: 19px" style= "font-weight: 70" align="center">Babcock University Internship Portal</p>
+                    <tr><td width=1%><a href="home.php"><img src="res/img/logo.png" height="20" width="20"></a></td><td>
+                    <p align= "left" style="font-size: 19px" style= "font-weight: 70" align="center">Pastures Internship Portal</p>
                     </td><td> </td><td>
                     <div align="right" onmouseout=changeback()>
                     <a class="scroll" onmouseover=changeBrowse()  href=browser.php>Browse Companies &nbsp;</a>

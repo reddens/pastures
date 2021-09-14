@@ -1,5 +1,5 @@
 body {
-    background-color: lightblue;
+    background-color: greenyellow;
     font-family: 'Ubuntu', sans-serif;
 }
 
@@ -8,7 +8,7 @@ body {
 }
 
 .main {
-    background-color: rgba(87, 122, 197, 0.562);
+    background-color: lightgreen;
     width: 400px;
     height: 100%;
     margin: 7em auto;
@@ -17,7 +17,7 @@ body {
 }
 
 .lain {
-    background-color: rgba(87, 122, 197, 0.562);
+    background-color: lightgreen;
     width: 400px;
     height: 60%;
     margin: 7em auto;

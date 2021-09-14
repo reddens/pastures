@@ -23,21 +23,21 @@
             width: 87%;
             text-align: center;
             vertical-align: middle;
-            background-color: lightblue;
+            background-color: lightgreen;
             /*color: #353631;*/
             color: black;
             border-color: white;
         }
         th{
             color: white;
-            background-color: rgb(2,1,103);
+            background-color: greenyellow;
         }
           </style>
     </head>
     <body>
     <table width=100%>
-                    <tr><td width=1%><a href="home.php"><img src="res/img/babcock.jpeg" height="20" width="20"></a></td><td>
-                    <p align= "left" style="font-size: 19px" style= "font-weight: 70" align="center">Babcock University Internship Portal</p>
+                    <tr><td width=1%><a href="home.php"><img src="res/img/logo.png" height="20" width="20"></a></td><td>
+                    <p align= "left" style="font-size: 19px" style= "font-weight: 70" align="center">Pastures Internship Portal</p>
                     </td><td> </td><td>
                     <div align="right" onmouseout=changeback()>
                     <a class="scroll" onmouseover=changeBrowse()  href=browser.php>Browse Companies &nbsp;</a>
